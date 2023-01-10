@@ -1,0 +1,15 @@
+ {
+      "category" : "energy",
+      "description" : "Connect Aidon Eletricity meters via the HAN port. Enables monitoring of energy consumption as well as current and voltage on the individual phases.",
+      "name" : "Aidon Eletricity meter",
+      "public" : true,
+      "publisher" : {
+         "id" : <your organization id here>
+      },
+      "short_description" : "Connect Aidon Eletricity meters via the HAN port.",
+      "source_url" : "https://git.iotopen.se/rejas/edge-apps/edge-app-aidon-electricity-meter",
+      "tags" : [
+		  "monitoring"
+      ]
+   }
+
