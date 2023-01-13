@@ -24,3 +24,7 @@ easy to configure. You have to enter something in the update\_url at the bottom
 or the data will not work. 
 
 You will have to enter two MQTT topics. They probably should not be the same.
+
+![image](https://user-images.githubusercontent.com/3830271/212432083-aa2c2157-6e3b-4e32-8c66-ef66edc156f3.png)
+![image](https://user-images.githubusercontent.com/3830271/212432149-16ca1832-2695-4702-9935-7fcbf4a9765b.png)
+![image](https://user-images.githubusercontent.com/3830271/212432288-20861b12-a940-4ae9-b01b-66085778930b.png)
